@@ -1,1 +1,1 @@
-cdb dm cmn
+tật cho
