@@ -51,13 +51,15 @@ python feature_extraction.py
 ```
 ---
 ## 📂 Project Structure
+```text
 Feature-Extraction/
 │
 ├── feature_extraction.py     # Main script
 ├── car.jpg                   # Sample image
 ├── README.md                 # Project description
 └── requirements.txt          # Dependencies (optional)
+```
 ---
 ## 📄 License
-This project is licensed under the LICENSE.
+This project is licensed under the [MIT License](LICENSE).
 ---
