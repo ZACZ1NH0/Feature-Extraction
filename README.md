@@ -37,3 +37,26 @@ DỰ ÁN VỀ XỬ LÝ ẢNH
 ```bash
 git clone https://github.com/ZACZ1NH0/Feature-Extraction.git
 cd Feature-Extraction
+```
+
+### 2. Install dependencies
+if you have not installed any packages in requirement.txt
+```bash
+pip install -r requirements.txt
+```
+### 3. Run the script
+```bash
+python feature_extraction.py
+
+```
+##📂 Project Structure
+Feature-Extraction/
+│
+├── feature_extraction.py     # Main script
+├── car.jpg                   # Sample image
+├── README.md                 # Project description
+└── requirements.txt          # Dependencies (optional)
+
+##📄 License
+This project is licensed under the MIT License.
+
