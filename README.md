@@ -51,13 +51,13 @@ python feature_extraction.py
 ```
 ---
 ## 📂 Project Structure
-```text
+```markdown
 Feature-Extraction/
 │
-├── feature_extraction.py     # Main script
-├── car.jpg                   # Sample image
-├── README.md                 # Project description
-└── requirements.txt          # Dependencies (optional)
+├── [feature_extraction](feature_extraction.py)     # Main script
+├── [car.jpg](car.jpg)                   # Sample image
+├── [README.md](READMAE.md)                 # Project description
+└── [requirements.txt](requirements.txt)          # Dependencies (optional)
 ```
 ---
 ## 📄 License
