@@ -49,6 +49,7 @@ pip install -r requirements.txt
 python feature_extraction.py
 
 ```
+---
 ##📂 Project Structure
 Feature-Extraction/
 │
@@ -56,7 +57,7 @@ Feature-Extraction/
 ├── car.jpg                   # Sample image
 ├── README.md                 # Project description
 └── requirements.txt          # Dependencies (optional)
-
+---
 ##📄 License
-This project is licensed under the MIT License.
-
+This project is licensed under the LICENSE.
+---
