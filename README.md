@@ -50,7 +50,7 @@ python feature_extraction.py
 
 ```
 ---
-##📂 Project Structure
+## 📂 Project Structure
 Feature-Extraction/
 │
 ├── feature_extraction.py     # Main script
@@ -58,6 +58,6 @@ Feature-Extraction/
 ├── README.md                 # Project description
 └── requirements.txt          # Dependencies (optional)
 ---
-##📄 License
+## 📄 License
 This project is licensed under the LICENSE.
 ---
