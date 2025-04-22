@@ -54,11 +54,15 @@ python feature_extraction.py
 ```markdown
 Feature-Extraction/
 │
-├── [feature_extraction](feature_extraction.py)     # Main script
-├── [car.jpg](car.jpg)                   # Sample image
-├── [README.md](READMAE.md)                 # Project description
-└── [requirements.txt](requirements.txt)          # Dependencies (optional)
+├── feature_extraction     # Main script
+├── car.jpg              # Sample image
+├── README.md            # Project description
+└── requirements.txt         # Dependencies (optional)
 ```
+[feature_extraction](feature_extraction.py)     
+[car.jpg](car.jpg)                  
+[README.md](READMAE.md)              
+[requirements.txt](requirements.txt)         
 ---
 ## 📄 License
 This project is licensed under the [MIT License](LICENSE).
