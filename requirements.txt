@@ -1,0 +1,11 @@
+# Core libraries
+numpy
+pandas
+matplotlib
+
+# Image processing libraries
+opencv-python-headless
+Pillow
+
+# Machine learning libraries
+scikit-learn
